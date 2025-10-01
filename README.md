@@ -17,10 +17,13 @@ A command-line Library Management System implemented in Java.
 - Java 8+ (JDK installed)
 
 ## How to Compile & Run
--compile
-javac LibraryManagementSystem.java
+1. compile
+   ```bash
+   javac LibraryManagementSystem.java
 
--run
-java LibraryManagementSystem
+2. Run
+   ```bash
+   java LibraryManagementSystem
+
 
 
